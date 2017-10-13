@@ -5,6 +5,10 @@
 .col-md-6 h2{
   text-align: center;
 }
+.interests {
+  background-color:  #ffcccc;
+  text-align: center;
+}
 .projects {
   background-color: #b37700;
 }
@@ -28,10 +32,6 @@ body {
 .background li {
   font-size: 2em;
 }
-.interests {
-  background-color:  #ffcccc;
-  text-align: center;
-}
 .projects ul {
   border-top: 2px;
   border-style: solid;
@@ -54,4 +54,8 @@ body {
 }
 .language {
   color: white;
+}
+.interest-list {
+  background-color: #ffcccc;
+  text-align: center;
 }
