@@ -8,7 +8,6 @@
 }
 .interest-list {
   background-color: #ffcccc;
-  text-align: center;
   padding: 10px;
 }
 .full-interests {
@@ -30,7 +29,6 @@
 }
 .about-me {
   padding: 30px;
-  text-align: center;
   background-color:  #b3d9ff;
   border: 10px;
   border-style: solid;
@@ -77,6 +75,7 @@ body {
   color: white;
 }
 .interest-list ol {
+  padding: 20px;
   border-top: 2px;
   border-style: solid;
   border-color: black;
@@ -113,6 +112,6 @@ body {
 .top h2 {
   letter-spacing: 10px;
 }
-.p-b {
-  border-radius: 50px;
+.about-me h2 {
+  text-align: center;
 }
