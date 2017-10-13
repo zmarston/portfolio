@@ -9,6 +9,7 @@
 .interest-list {
   background-color: #ffcccc;
   text-align: center;
+  padding: 10px;
 }
 .full-interests {
   margin-bottom: 50px;
@@ -16,15 +17,24 @@
 .projects {
   padding: 30px;
   background-color: #b37700;
+  border: 10px;
+  border-style: solid;
+  border-color: #31B0D7;
 }
 .background {
   padding: 30px;
   background-color: #990000;
+  border: 10px;
+  border-style: solid;
+  border-color: #31B0D7;
 }
 .about-me {
   padding: 30px;
   text-align: center;
   background-color:  #b3d9ff;
+  border: 10px;
+  border-style: solid;
+  border-color: #31B0D7;
 }
 body {
   background-color: #006666;
@@ -35,6 +45,7 @@ body {
   margin-top: 30px;
   text-align: center;
   background-color:  #b3d9ff;
+  border-radius: 50px;
 }
 .projects li {
   font-size: 2em;
@@ -59,7 +70,7 @@ body {
   border-left: none;
 }
 .background img {
-  width: 300px;
+  width: 400px;
   float: left;
 }
 .language {
@@ -101,4 +112,7 @@ body {
 }
 .top h2 {
   letter-spacing: 10px;
+}
+.p-b {
+  border-radius: 50px;
 }
