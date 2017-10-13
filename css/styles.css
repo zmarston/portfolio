@@ -29,6 +29,7 @@ body {
 }
 .top {
   text-align: center;
+  background-color:  #b3d9ff;
 }
 .projects li {
   font-size: 2em;
@@ -66,4 +67,15 @@ body {
   border-right: none;
   border-bottom: none;
   border-left: none;
+}
+.me {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.top h1 {
+  font-size: 10em
+}
+.red {
+  color: red;
 }
