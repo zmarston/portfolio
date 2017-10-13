@@ -6,6 +6,7 @@
   text-align: center;
 }
 .interests {
+  padding: 30px;
   background-color:  #ffcccc;
   text-align: center;
 }
@@ -14,12 +15,15 @@
   text-align: center;
 }
 .projects {
+  padding: 30px;
   background-color: #b37700;
 }
 .background {
+  padding: 30px;
   background-color: #990000;
 }
 .about-me {
+  padding: 30px;
   text-align: center;
   background-color:  #b3d9ff;
 }
@@ -28,6 +32,7 @@ body {
   font-family: 'Fjalla One', sans-serif;
 }
 .top {
+  padding: 40px;
   text-align: center;
   background-color:  #b3d9ff;
 }
