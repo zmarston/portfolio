@@ -1,7 +1,3 @@
-.jumbotron{
-  text-align: center;
-  background-color:  #b3d9ff;
-}
 .col-md-6 h2{
   text-align: center;
 }
@@ -13,6 +9,9 @@
 .interest-list {
   background-color: #ffcccc;
   text-align: center;
+}
+.full-interests {
+  margin-bottom: 50px;
 }
 .projects {
   padding: 30px;
@@ -32,7 +31,8 @@ body {
   font-family: 'Fjalla One', sans-serif;
 }
 .top {
-  padding: 40px;
+  padding: 30px;
+  margin-top: 30px;
   text-align: center;
   background-color:  #b3d9ff;
 }
