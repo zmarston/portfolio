@@ -17,6 +17,7 @@
 }
 body {
   background-color: #006666;
+  font-family: 'Raleway', sans-serif;
 }
 .top {
   text-align: center;
@@ -30,4 +31,24 @@ body {
 .interests {
   background-color:  #ffcccc;
   text-align: center;
+}
+.projects ul {
+  border-top: 2px;
+  border-style: solid;
+  border-color: black;
+  border-right: none;
+  border-bottom: none;
+  border-left: none;
+}
+.background ul {
+  border-top: 2px;
+  border-style: solid;
+  border-color: black;
+  border-right: none;
+  border-bottom: none;
+  border-left: none;
+}
+.background img {
+  width: 150px;
+  float: right;
 }
