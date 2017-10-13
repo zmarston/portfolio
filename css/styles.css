@@ -21,3 +21,13 @@ body {
 .top {
   text-align: center;
 }
+.projects li {
+  font-size: 2em;
+}
+.background li {
+  font-size: 2em;
+}
+.interests {
+  background-color:  #ffcccc;
+  text-align: center;
+}
