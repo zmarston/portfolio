@@ -9,6 +9,10 @@
   background-color:  #ffcccc;
   text-align: center;
 }
+.interest-list {
+  background-color: #ffcccc;
+  text-align: center;
+}
 .projects {
   background-color: #b37700;
 }
@@ -55,7 +59,11 @@ body {
 .language {
   color: white;
 }
-.interest-list {
-  background-color: #ffcccc;
-  text-align: center;
+.interest-list ol {
+  border-top: 2px;
+  border-style: solid;
+  border-color: black;
+  border-right: none;
+  border-bottom: none;
+  border-left: none;
 }
