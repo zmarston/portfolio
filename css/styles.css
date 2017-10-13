@@ -54,8 +54,8 @@ body {
   border-left: none;
 }
 .background img {
-  width: 150px;
-  float: right;
+  width: 300px;
+  float: left;
 }
 .language {
   color: white;
@@ -82,4 +82,18 @@ body {
 .list-img {
   float: right;
   width: 100px;
+}
+.top img:first-child {
+  float: left;
+  width: 200px;
+}
+.top img:nth-of-type(2) {
+  float: right;
+  width: 200px;
+}
+.projects a {
+  color: #006666;
+}
+.top h2 {
+  letter-spacing: 10px;
 }
