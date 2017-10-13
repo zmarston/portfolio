@@ -79,3 +79,7 @@ body {
 .red {
   color: red;
 }
+.list-img {
+  float: right;
+  width: 100px;
+}
