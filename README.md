@@ -8,7 +8,7 @@
 This Portfolio for Zachary Marston includes links to projects, a background, an about me, and interests.
 
 ## Setup
-* Clone the repository
+* Clone this repository by running this command in your terminal git clone https://github.com/zmarston/portfolio.git
 
 ## Technologies Used
 * HTML
